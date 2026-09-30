@@ -1,0 +1,7 @@
+{
+  "name": "RS AI Assistant",
+  "description": "Futuristic real-time voice-to-voice AI assistant with expressive animated anime companion, low-latency live audio streaming, and mobile tool automation.",
+  "requestFramePermissions": ["camera", "microphone", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

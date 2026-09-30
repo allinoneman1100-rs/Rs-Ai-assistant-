@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "RS AI Assistant",
+  "short_name": "RS AI",
+  "description": "Futuristic real-time voice-to-voice AI assistant with expressive anime companion.",
+  "theme_color": "#05060c",
+  "background_color": "#05060c",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
